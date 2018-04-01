@@ -1,3 +1,7 @@
+/**
+ * @author Christian Mueller (christian.muell3r@gmail.com)
+ * Date: 04-2018
+ */
 package net.homelinux.vaadincrud;
 
 import javax.servlet.annotation.WebServlet;
